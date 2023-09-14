@@ -1,0 +1,27 @@
+header {
+    background-color: #F02F1F !important;
+    padding: 20px 0;
+}
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+.card:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    transform: translateY(-5px);
+}
+.card-img-top {
+    height: 200px;  /* Adjust as needed */
+    object-fit: cover;  /* Cover the entire area of the container */
+}
+.btn-primary {
+    background-color: #be3455 !important;
+    border-color: #be3455 !important;
+}
+
+.col-md-4 {
+    margin-bottom: 20px;  /* Adjust the value as needed */
+}
+
