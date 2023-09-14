@@ -25,3 +25,9 @@ header {
     margin-bottom: 20px;  /* Adjust the value as needed */
 }
 
+.mardi-gras-card {
+    background: linear-gradient(to right, purple, green, gold);
+    color: white; /* If you wish to change the text color to make it more readable */
+}
+
+
